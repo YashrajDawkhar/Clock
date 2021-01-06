@@ -1,6 +1,5 @@
 body{
-background: rgb(2,0,36);
-background: linear-gradient(163deg, rgba(2,0,36,1) 0%, rgba(4,3,63,1) 19%, rgba(9,9,121,1) 46%, rgba(0,212,255,1) 86%);
+    background-image: radial-gradient( circle 465px at -15.1% -25%,  rgba(17,130,193,1) 0%, rgba(67,166,238,1) 49%, rgba(126,203,244,1) 90.2% );
 }
 #classContainer{
     position: relative;
